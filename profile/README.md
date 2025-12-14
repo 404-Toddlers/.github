@@ -1,7 +1,7 @@
 # Gugu Gaga
 
 <p align="center">
-  <img src="src/banner.png" alt="404 Toddlers Banner" width="100%" />
+  <img src="../src/banner.png" alt="404 Toddlers Banner" width="100%" />
 </p>
 
 <h1 align="center">👶💻 404 Toddlers</h1>
